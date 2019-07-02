@@ -1,5 +1,5 @@
 s = float(input())
 if (s%2==0):
-       print("Even number")
+       print("Even")
 else:
-   print("Odd number")
+   print("Odd")
