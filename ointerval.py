@@ -1,5 +1,9 @@
-l=int(input())
-u=int(input())
-for i in range(l,u+1):
-    if(i%2!=0):
-        print(i)
+l, u = 4, 19
+  
+
+for num in range(l, u + 1): 
+      
+  
+    if num % 2 != 0: 
+        print(num, end = " ") 
+
