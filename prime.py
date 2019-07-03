@@ -1,4 +1,4 @@
-s = 11
+s = 121
    
 if s > 1:   
    for i in range(2, s//2):
@@ -7,3 +7,5 @@ if s > 1:
            break
    else: 
        print( "yes") 
+  
+ 
