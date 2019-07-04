@@ -5,4 +5,4 @@ for n in range(s+1,t):
       if(n%i)==0:
         break
     else:
-     print(n)  
+     print(n,end=" ")  
